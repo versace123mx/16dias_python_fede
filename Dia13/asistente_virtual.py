@@ -74,5 +74,4 @@ for voz in engine.getProperty('voices'):
     print(voz)
 '''
 id1 = 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ES-MX_SABINA_11.0'
-#hablar("HOla hijo de toda tu puta madre, por que no me contratan, culeros, pero cuando cree mi empresa se van a cagar y me pediran empleo, hijos de puta y los mandare a la verga.")
 hablar("HOla Javier no te durmas si ya tienes sueño vete a dormir.")
